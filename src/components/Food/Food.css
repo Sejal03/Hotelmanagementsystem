@@ -1,0 +1,22 @@
+#food {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 50%;
+    
+  }
+  
+  #food td, #food th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+ 
+  
+  #food th, #food td {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #319189;
+    color: white;
+  }
+ 
